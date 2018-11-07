@@ -1,2 +1,3 @@
 # miniProgram
 wx miniProgram
+demo
